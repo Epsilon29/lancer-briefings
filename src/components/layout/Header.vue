@@ -1,8 +1,8 @@
 <template>
   <header class="clipped-x-large-forward">
     <div class="title clipped-x-large-forward">
+      <img class="logo" src="/icons/company-icon-2.png" />
       <div class="title-container">
-        <img class="logo" src="/icons/company-icon-2.png" />
         <div class="title-row" id="title-first-line">
           <span id="title-header">{{ header.headerTitle }}</span>
           <span id="title-subheader">{{ header.headerSubtitle }}</span>
