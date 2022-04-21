@@ -145,7 +145,7 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "LANDMARK COLONIAL",
-        "headerSubtitle": "Corporate Operations",
+        "headerSubtitle": "Corporate OPS",
         "subheaderTitle": "Crisis Response Team",
         "subheaderSubtitle": "Crisis Red",
       },
