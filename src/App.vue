@@ -130,7 +130,7 @@ export default {
           "callsign": "Mars",
           "alias": "Carter Bracken",
           "code": "9ab0a4fb-6e57-4c06-a8e2-a46d24a687b7//NDL-C-DEEP-CAGE",
-          "corpro": "Harrison",
+          "corpro": "Harrison Armory",
           "frame": "Enkidu",
           "mech": "Deimos"
         },
