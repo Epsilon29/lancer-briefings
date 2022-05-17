@@ -1,11 +1,11 @@
 [
 	{
-		"type" : "Type",
-		"name" : "Name",
-		"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
+		"type" : "Tactical Advantages",
+		"name" : "Orbital Drop",
+		"description" : "The ability to start the mission by dropping from orbit into a heavily fortified or hard to reach location.",
 		"label": "Label",
 		"cost": "Cost",
 		"notes" : "Notes",
-		"callsign": ""
+		"callsign": "MARS"
 	}
 ]
