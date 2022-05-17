@@ -3,18 +3,18 @@
 		"type": "Story",
 		"result": "Positive",
 		"name": "Evergreen Defense",
-		"description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
+		"description": "Represents the integrity and readiness of Evergreen's militia and defenses. Having more segments filled in will make things easier for you in later missions.",
 		"color": "#7DBBBB",
-		"value": 2,
+		"value": 4,
 		"max": 6
 	},
 	{
 		"type": "Story",
 		"result": "Negative",
 		"name": "Machine Horde",
-		"description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
+		"description": "Represents the number of rogue machines and the danger they pose. Having more segments filled in will make things more difficult for you in later missions.",
 		"color": "#FD7777",
-		"value": 2,
+		"value": 0,
 		"max": 6
 	}
 ]

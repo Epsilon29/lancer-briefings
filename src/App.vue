@@ -40,10 +40,10 @@ export default {
         system: "Ardennes-3",
         gate: "Atlas-Quanokrim",
         ring: "Atlas-Line",
-        headerTitle: "Mirrorsmoke",
-        headerSubtitle: "Mercenary Company",
+        headerTitle: "Landmark Colonial",
+        headerSubtitle: "CORPORATE OPS",
         subheaderTitle: "Crisis Response",
-        subheaderSubtitle: "Delta-Echo-Echo-Zulu",
+        subheaderSubtitle: "Crisis Red",
       },
       clocks: [],
       events: [],
@@ -51,13 +51,21 @@ export default {
       pilots: [],
       reserves: [],
       init: {
-        "APOLLO": {
-          "age": "32u",
-          "pob": "Evergreen",
+        "Bear": {
+          "age": "28u",
+          "pob": "Novyy Moskva Station",
         },
-        "RAI-DEN": {
-          "age": "48u",
-          "pob": "Gaia"
+        "Halloumi": {
+          "age": "24u",
+          "pob": "N/A"
+        }
+		"Mars": {
+          "age": "30u",
+          "pob": "N/A"
+        }
+		"Speedbird": {
+          "age": "38u",
+          "pob": "N/A"
         }
       }
     };
