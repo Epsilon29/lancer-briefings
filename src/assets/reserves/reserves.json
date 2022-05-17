@@ -7,5 +7,41 @@
 		"cost": "Cost",
 		"notes" : "Notes",
 		"callsign": "MARS"
-	}
+	},
+	{
+		"type" : "Knowledge",
+		"name" : "STREETWISE: EVERGREEN",
+		"description" : "Gain  +1 Accuracy on  any  check  outside  of  mech combat  for  getting  around  Evergreen  safely  and securely.",
+		"label": "Label",
+		"cost": "Cost",
+		"notes" : "Notes",
+		"callsign": "MARS" 
+	},
+	{
+		"type" : "Knowledge",
+		"name" : "LOCAL DIALECT: EVERGREEN",
+		"description" : "Gain +1 accuracy when trying to talk to or persuade people from Evergreen.",
+		"label": "Label",
+		"cost": "Cost",
+		"notes" : "Notes",
+		"callsign": "MARS" 
+	},
+	{
+		"type" : "Knowledge",
+		"name" : "STREETWISE: EVERGREEN",
+		"description" : "Gain  +1 Accuracy on  any  check  outside  of  mech combat  for  getting  around  Evergreen  safely  and securely.",
+		"label": "Label",
+		"cost": "Cost",
+		"notes" : "Notes",
+		"callsign": "HALLOUMI" 
+	},
+	{
+		"type" : "Knowledge",
+		"name" : "STREETWISE: EVERGREEN",
+		"description" : "Gain  +1 Accuracy on  any  check  outside  of  mech combat  for  getting  around  Evergreen  safely  and securely.",
+		"label": "Label",
+		"cost": "Cost",
+		"notes" : "Notes",
+		"callsign": "SPEEDBIRD" 
+	},
 ]
