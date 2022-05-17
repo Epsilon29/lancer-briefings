@@ -58,11 +58,11 @@ export default {
         "Halloumi": {
           "age": "24u",
           "pob": "N/A"
-        }
+        },
 		"Mars": {
           "age": "30u",
           "pob": "N/A"
-        }
+        },
 		"Speedbird": {
           "age": "38u",
           "pob": "N/A"
