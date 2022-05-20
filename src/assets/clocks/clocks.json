@@ -22,7 +22,7 @@
 		"result": "Positive",
 		"name": "Contingency White",
 		"description": "Represents the CRT's opinion of you and your team. Having more segments filled in will improve the odds of the CRT assisting you.",
-		"color": "#FD7777",
+		"color": "#FFFFFF",
 		"value": 3,
 		"max": 6
 	}
