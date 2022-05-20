@@ -14,7 +14,16 @@
 		"name": "Machine Horde",
 		"description": "Represents the number of rogue machines and the danger they pose. Having more segments filled in will make things more difficult for you in later missions.",
 		"color": "#FD7777",
-		"value": 0,
+		"value": 2,
 		"max": 6
-	}
+	},
+	{
+		"type": "Story",
+		"result": "Positive",
+		"name": "Contingency White",
+		"description": "Represents the CRT's opinion of you and your team. Having more segments filled in will improve the odds of the CRT assisting you.",
+		"color": "#FD7777",
+		"value": 3,
+		"max": 6
+	},
 ]
