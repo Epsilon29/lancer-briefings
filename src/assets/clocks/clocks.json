@@ -5,7 +5,7 @@
 		"name": "Evergreen Defense",
 		"description": "Represents the integrity and readiness of Evergreen's militia and defenses. Having more segments filled in will make things easier for you in later missions.",
 		"color": "#7DBBBB",
-		"value": 4,
+		"value": 5,
 		"max": 6
 	},
 	{
