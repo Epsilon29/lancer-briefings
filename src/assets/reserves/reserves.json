@@ -1,12 +1,21 @@
 [
 	{
-		"type" : "Tactical Advantages",
-		"name" : "Orbital Drop",
-		"description" : "The ability to start the mission by dropping from orbit into a heavily fortified or hard to reach location.",
+		"type" : "Mech Equipment and Gear",
+		"name" : "Extra Repairs",
+		"description" : "Supplies that give a mech +2 Repair Cap.",
 		"label": "Label",
 		"cost": "Cost",
 		"notes" : "Notes",
-		"callsign": "MARS"
+		"callsign": "SPEEDBIRD"
+	},
+	{
+		"type" : "Mech Equipment and Gear",
+		"name" : "Ammo Crate",
+		"description" : "Once while resting, spend this reserve to restore 1 charge for your entire party's LIMITED systems and weapons.",
+		"label": "Label",
+		"cost": "Cost",
+		"notes" : "Notes",
+		"callsign": "BEAR"
 	},
 	{
 		"type" : "Knowledge",
