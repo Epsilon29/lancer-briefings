@@ -1,21 +1,39 @@
 [
 	{
 		"type": "Story",
+		"result": "Negative",
+		"name": "?? ERROR N/A ??",
+		"description": "Something is happening in Evergreen... {There is more to learn here.}",
+		"color": "#FD7777",
+		"value": 0,
+		"max": 3
+	},
+	{
+		"type": "Story",
 		"result": "Positive",
-		"name": "Evergreen Defense",
-		"description": "Represents the integrity and readiness of Evergreen's militia and defenses. Having more segments filled in will make things easier for you in later missions.",
-		"color": "#7DBBBB",
-		"value": 5,
+		"name": "Liberate the Prison Camp",
+		"description": "Represents the progress towards a prison breakout from the prison camp in Evergreen.",
+		"color": "#EBCB73",
+		"value": 0,
 		"max": 6
 	},
 	{
 		"type": "Story",
-		"result": "Negative",
-		"name": "Machine Horde",
-		"description": "Represents the number of rogue machines and the danger they pose. Having more segments filled in will make things more difficult for you in later missions.",
-		"color": "#FD7777",
-		"value": 1,
+		"result": "Positive",
+		"name": "Deal with the Orbital Weapon",
+		"description": "Represents the progress towards dealing with the Orbital Weapon in orbit around Hercynia.",
+		"color": "#EBCB73",
+		"value": 0,
 		"max": 6
+	},
+	{
+		"type": "Story",
+		"result": "Positive",
+		"name": "Investigate the Governor's Farm",
+		"description": "Represents the progress towards investigating what Beggar One is doing in the Governor's Farm.",
+		"color": "#EBCB73",
+		"value": 0,
+		"max": 4
 	},
 	{
 		"type": "Story",
@@ -25,5 +43,5 @@
 		"color": "#FFFFFF",
 		"value": 3,
 		"max": 6
-	}
+	},
 ]
