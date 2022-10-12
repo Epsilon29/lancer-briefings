@@ -15,7 +15,7 @@
 		"description": "Represents the progress towards a prison breakout from the prison camp in Evergreen.",
 		"color": "#EBCB73",
 		"value": 0,
-		"max": 6
+		"max": 1
 	},
 	{
 		"type": "Story",
@@ -24,7 +24,7 @@
 		"description": "Represents the progress towards dealing with the Orbital Weapon in orbit around Hercynia.",
 		"color": "#EBCB73",
 		"value": 0,
-		"max": 6
+		"max": 1
 	},
 	{
 		"type": "Story",
