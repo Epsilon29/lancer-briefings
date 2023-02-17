@@ -51,20 +51,20 @@ export default {
       pilots: [],
       reserves: [],
       init: {
-        "Bear": {
-          "age": "28u",
-          "pob": "Novyy Moskva Station",
-        },
-        "Halloumi": {
+        "XRAY": {
           "age": "24u",
-          "pob": "N/A"
+          "pob": "N/A",
         },
-		"Mars": {
+        "CYGNUS": {
           "age": "30u",
           "pob": "N/A"
         },
-		"Speedbird": {
-          "age": "38u",
+		    "HIJACK": {
+          "age": "28u",
+          "pob": "N/A"
+        },
+		    "ATARI": {
+          "age": "21u",
           "pob": "N/A"
         }
       }
