@@ -35,15 +35,15 @@ export default {
   data() {
     return {
       header: {
-        planet: "Hercynia",
-        year: "5014u",
-        system: "Ardennes-3",
-        gate: "Atlas-Quanokrim",
-        ring: "Atlas-Line",
+        planet: "Cressidium",
+        year: "5016u",
+        system: "Shastarain",
+        gate: "N/A",
+        ring: "Cascade-Line",
         headerTitle: "Union Navy",
         headerSubtitle: "Diplomatic Core",
-        subheaderTitle: "Crisis Response",
-        subheaderSubtitle: "Crisis Red",
+        subheaderTitle: "Lancer Squadron",
+        subheaderSubtitle: "Los Alamos Squad",
       },
       clocks: [],
       events: [],
