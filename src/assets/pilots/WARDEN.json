@@ -1,1 +1,372 @@
-{"id":"940b782b-7e6f-4d87-bcbf-7b72267360f3","level":5,"callsign":"WARDEN","name":"SARA NOVAKS","player_name":"Baron","status":"Active","dead":false,"text_appearance":"<p>She stands with a small frame, wearing the standard Union Administrator attire—an immaculate suit in dark Union Gray. Her hair is styled neatly in two buns at the back of her head. A silver pip on her collar signifies her rank. Her eyes are keen and calculating, always one step ahead, and her posture is perfect. She would make for a good soldier if she wasn't a better administrator. Though her size might suggest fragility, her presence fills any room she enters, commanding respect and attention—or the ire of anyone who dares oppose her.</p>","notes":"Novaks Moral Code:\nI. All Shall Have Their Material Needs Fulfilled\nII. No Walls Shall Stand Between Worlds.\nIII. No Human Shall Be Held in Bondage Through Force, Labor, or Debt.\n\nHATES:\n1. ANTHROCHAUVINISTS\n2. SecComm\n3. New Humanity Front\n4. Violators of First Contact Accords\n\n\n\n\n","history":"<p>Sara \"WARDEN\" Novaks was stationed as a junior administrator on Umara as part of the Union's few administrative liasion offices in the Karrakin Trade Baronies. She graduated top of her class from the Commissariat for Civic Governance, scoring perfect marks on her Bureaucratic Efficiency and Governance Aptitude Test. After her tour on Umara, she will be well on her way to becoming a full-fledged Union Administrator. She may even get a posting in the core systems, assuming she doesn't piss off the wrong people...</p><p>Further background checks reveals membership in the Verdant Social Arc (VSA), a social-democratic left coalition that emerged as an anti-colonial front against SecComm’s imperialism.</p>","quirks":[],"current_hp":9,"background":"Union Administrator","resistances":[],"mechs":[{"id":"9583dc29-3fc1-4f9b-9ba8-b7aba1df1cdd","name":"What Goes Up...","notes":"","gm_note":"","frame":"mf_oleander","active":false,"current_structure":4,"current_move":5,"boost":0,"current_hp":21,"overshield":0,"current_stress":4,"current_heat":0,"current_repairs":4,"current_overcharge":0,"current_core_energy":1,"statuses":[],"conditions":[],"resistances":[],"reactions":[],"burn":0,"destroyed":false,"defeat":"","activations":1,"meltdown_imminent":false,"reactor_destroyed":false,"core_active":false,"cc_ver":"ERR","lastModified":"Thu Jan 09 2025 23:01:26 GMT-0500 (heure normale de l’Est nord-américain)","isDeleted":false,"expireTime":"","deleteTime":"","portrait":"","cloud_portrait":"https://d1nurxym97qk9o.cloudfront.net/public/us-east-1:ae8d5767-616e-4cc4-8f1d-0a4f65f8f5a0/mech/orleander.png","loadouts":[{"id":"2a24143d-139f-4c22-a60f-5aaea5853a16","name":"Primary","systems":[{"id":"ms_core_siphon","uses":0,"destroyed":false,"cascading":false,"flavorName":"","flavorDescription":"By shunting excess heat to offensive systems, core siphons allow pilots to overclock the targeting, catalytic, and processing capabilities of their weapons. This comes at a cost, however – reliance on overclocking without sufficient cooling can damage systems not built to handle the influx of power."},{"id":"ms_high_stress_mag_clamps","uses":0,"destroyed":false,"cascading":false,"flavorName":"","flavorDescription":"A simple, reliable set of toggleable mag clamps built into a mech’s locomotive system can vastly increase the tactical possibilities open to its pilot. When switched on, these clamps allow a mech to cling to ferrous surfaces, which is especially useful in low- and zero-gravity environments."},{"id":"ms_kinetic_compensator","uses":0,"destroyed":false,"cascading":false,"flavorName":"","flavorDescription":"Kinetic compensators are popular enhancements, providing a subsurface framework of electronically modulated gyroscopes and hydraulic compensators that work in concert to absorb and disperse recoil caused by firing heavy weapons."}],"integratedSystems":[],"mounts":[{"mount_type":"Main","lock":false,"slots":[{"size":"Main","weapon":{"id":"mw_sharanga_missiles","destroyed":false,"cascading":false,"loaded":true,"mod":{"id":"wm_stabilizer_mod","uses":0,"destroyed":false,"cascading":false},"flavorName":"","flavorDescription":"“It was a duel. This is why they were made: to duel, and in that combat, to shake the pillars of the universe.” — “Notes for Young John”,  Ministrations of the Master Teacher","customDamageType":null,"maxUseOverride":0,"uses":0,"selectedProfile":0}}],"extra":[],"bonus_effects":[],"modifiable":true},{"mount_type":"Heavy","lock":false,"slots":[{"size":"Heavy","weapon":{"id":"mw_gandiva_missiles","destroyed":false,"cascading":false,"loaded":true,"mod":{"id":"wm_stabilizer_mod","uses":0,"destroyed":false,"cascading":false},"flavorName":"","flavorDescription":"Gandiva missiles are a reliable mainstay from Smith-Shimano’s BELLA CIAO line. Like the heavier Pinaka, the Gandiva is equipped with jet-assisted midflight repositioning systems, enhancing target navigation in rapidly changing battlefield environments. The Gandiva’s delivery platform is administered by a hivemind COMP/CON drone AI, giving it the capacity to learn from each right-of-launch experience.","customDamageType":null,"maxUseOverride":0,"uses":0,"selectedProfile":0}}],"extra":[],"bonus_effects":[],"modifiable":true}],"integratedMounts":[],"improved_armament":{"mount_type":"Flex","lock":false,"slots":[{"size":"Flex","weapon":null}],"extra":[{"size":"Auxiliary","weapon":null}],"bonus_effects":[],"modifiable":true},"superheavy_mounting":{"mount_type":"Superheavy","lock":false,"slots":[{"size":"Superheavy","weapon":null}],"extra":[],"bonus_effects":[],"modifiable":true},"integratedWeapon":{"mount_type":"Aux","lock":false,"slots":[{"size":"Auxiliary","weapon":null}],"extra":[],"bonus_effects":[],"modifiable":true},"extraMounts":[],"extraIntegratedMounts":[]}],"active_loadout_index":0}],"cc_ver":"","special_equipment":{"PilotGear":[],"Frames":[],"MechWeapons":[],"WeaponMods":[],"MechSystems":[],"SystemMods":[]},"combat_history":{"moves":0,"kills":0,"damage":0,"hp_damage":0,"structure_damage":0,"overshield":0,"heat_damage":0,"reactor_damage":0,"overcharge_uses":0,"core_uses":0},"state":{"active_mech_id":"","remote_mech_id":"","stage":"Narrative","turn":1,"actions":2,"braced":false,"overcharged":false,"prepare":false,"bracedCooldown":false,"redundant":false,"stats":{"moves":0,"kills":0,"damage":0,"hp_damage":0,"structure_damage":0,"overshield":0,"heat_damage":0,"reactor_damage":0,"overcharge_uses":0,"core_uses":0},"deployed":[]},"lastModified":"Thu Feb 20 2025 00:03:25 GMT-0500 (heure normale de l’Est nord-américain)","isDeleted":false,"expireTime":"","deleteTime":"","lastUpdate_cloud":"","lastSync":"","skills":[{"id":"sk_push_boundaries","rank":2},{"id":"sk_pull_rank","rank":2},{"id":"sk_read_a_situation","rank":2},{"id":"sk_take_control","rank":3}],"talents":[{"id":"t_bonded","rank":3},{"id":"t_tactician","rank":3},{"id":"t_brutal","rank":1},{"id":"t_rivalry","rank":1}],"mechSkills":[5,0,2,0],"counter_data":[],"custom_counters":[],"core_bonuses":["cb_neurolink_targeting"],"licenses":[{"id":"mf_monarch","rank":2},{"id":"mf_deaths_head","rank":3}],"reserves":[],"orgs":[],"bondId":"sotw-bond-knave","xp":0,"stress":0,"isBroken":false,"burdens":[],"bondPowers":[{"name":"Out Of My Way","frequency":"1/session","description":"When someone blocks your path or prevents you from getting what you want, describe how you confront them. You gain +1 ACCURACY and increased effect against them for the rest of the scene."},{"name":"Ruthless","frequency":"1/session","description":"When you would take a consequence, you may instead choose a friendly NPC who is present in the scene. That NPC takes the consequence, and forever becomes your enemy."},{"name":"The Ledger","description":"Any time, you may ask any character what they want from you right now (service, time, attention, apologies, aid, information, a favor). If you give it to them as described, you can write their name in your ledger. Once their name is in there, you can invoke the ledger any time. When you invoke someone’s name in the ledger, any roll you make against them with a result of 9 or lower is treated as a 10 for the rest of the session, then it loses its power over them."}],"powerSelections":0,"maxStress":8,"bondAnswers":["An uncompromising mentor who taught you tough lessons.","Your safety."],"minorIdeal":"I paid the price for my ambition.","clocks":[],"group":"","sort_index":-1,"portrait":"","cloud_portrait":"https://d1nurxym97qk9o.cloudfront.net/public/us-east-1:ae8d5767-616e-4cc4-8f1d-0a4f65f8f5a0/pilot/baron_expanded.png","loadout":{"id":"65ffb34e-130a-481d-8053-75717cc68794","name":"Primary","armor":[null],"weapons":[null,null],"gear":[null,null,null],"extendedWeapons":[null],"extendedGear":[null,null]},"brews":[{"LcpId":"OMskwK4GxkhZ2GEBJnIoyukHgMs=","LcpName":"Lancer Enhanced Combat Alt Frames","LcpVersion":"1.1","Website":"https://interpoint-station.itch.io/lancer-enhanced-combat"}]}
+{
+    "id": "940b782b-7e6f-4d87-bcbf-7b72267360f3",
+    "level": 5,
+    "callsign": "WARDEN",
+    "name": "SARA NOVAKS",
+    "player_name": "Baron",
+    "status": "Active",
+    "dead": false,
+    "text_appearance": "<p>She stands with a small frame, wearing the standard Union Administrator attire—an immaculate suit in dark Union Gray. Her hair is styled neatly in two buns at the back of her head. A silver pip on her collar signifies her rank. Her eyes are keen and calculating, always one step ahead, and her posture is perfect. She would make for a good soldier if she wasn't a better administrator. Though her size might suggest fragility, her presence fills any room she enters, commanding respect and attention—or the ire of anyone who dares oppose her.</p>",
+    "notes": "Novaks Moral Code:\nI. All Shall Have Their Material Needs Fulfilled\nII. No Walls Shall Stand Between Worlds.\nIII. No Human Shall Be Held in Bondage Through Force, Labor, or Debt.\n\nHATES:\n1. ANTHROCHAUVINISTS\n2. SecComm\n3. New Humanity Front\n4. Violators of First Contact Accords\n\n\n\n\n",
+    "history": "<p>Sara \"WARDEN\" Novaks was stationed as a junior administrator on Umara as part of the Union's few administrative liasion offices in the Karrakin Trade Baronies. She graduated top of her class from the Commissariat for Civic Governance, scoring perfect marks on her Bureaucratic Efficiency and Governance Aptitude Test. After her tour on Umara, she will be well on her way to becoming a full-fledged Union Administrator. She may even get a posting in the core systems, assuming she doesn't piss off the wrong people...</p><p>Further background checks reveals membership in the Verdant Social Arc (VSA), a social-democratic left coalition that emerged as an anti-colonial front against SecComm’s imperialism.</p>",
+    "quirks": [],
+    "current_hp": 9,
+    "background": "Union Administrator",
+    "resistances": [],
+    "mechs": [
+        {
+            "id": "9583dc29-3fc1-4f9b-9ba8-b7aba1df1cdd",
+            "name": "What Goes Up...",
+            "notes": "",
+            "gm_note": "",
+            "frame": "Oleander",
+            "active": true,
+            "current_structure": 4,
+            "current_move": 5,
+            "boost": 0,
+            "current_hp": 21,
+            "overshield": 0,
+            "current_stress": 4,
+            "current_heat": 0,
+            "current_repairs": 4,
+            "current_overcharge": 0,
+            "current_core_energy": 1,
+            "statuses": [],
+            "conditions": [],
+            "resistances": [],
+            "reactions": [],
+            "burn": 0,
+            "destroyed": false,
+            "defeat": "",
+            "activations": 1,
+            "meltdown_imminent": false,
+            "reactor_destroyed": false,
+            "core_active": false,
+            "cc_ver": "ERR",
+            "lastModified": "Thu Jan 09 2025 23:01:26 GMT-0500 (heure normale de l’Est nord-américain)",
+            "isDeleted": false,
+            "expireTime": "",
+            "deleteTime": "",
+            "portrait": "",
+            "cloud_portrait": "https://d1nurxym97qk9o.cloudfront.net/public/us-east-1:ae8d5767-616e-4cc4-8f1d-0a4f65f8f5a0/mech/orleander.png",
+            "loadouts": [
+                {
+                    "id": "2a24143d-139f-4c22-a60f-5aaea5853a16",
+                    "name": "Primary",
+                    "systems": [
+                        {
+                            "id": "ms_core_siphon",
+                            "uses": 0,
+                            "destroyed": false,
+                            "cascading": false,
+                            "flavorName": "",
+                            "flavorDescription": "By shunting excess heat to offensive systems, core siphons allow pilots to overclock the targeting, catalytic, and processing capabilities of their weapons. This comes at a cost, however – reliance on overclocking without sufficient cooling can damage systems not built to handle the influx of power."
+                        },
+                        {
+                            "id": "ms_high_stress_mag_clamps",
+                            "uses": 0,
+                            "destroyed": false,
+                            "cascading": false,
+                            "flavorName": "",
+                            "flavorDescription": "A simple, reliable set of toggleable mag clamps built into a mech’s locomotive system can vastly increase the tactical possibilities open to its pilot. When switched on, these clamps allow a mech to cling to ferrous surfaces, which is especially useful in low- and zero-gravity environments."
+                        },
+                        {
+                            "id": "ms_kinetic_compensator",
+                            "uses": 0,
+                            "destroyed": false,
+                            "cascading": false,
+                            "flavorName": "",
+                            "flavorDescription": "Kinetic compensators are popular enhancements, providing a subsurface framework of electronically modulated gyroscopes and hydraulic compensators that work in concert to absorb and disperse recoil caused by firing heavy weapons."
+                        }
+                    ],
+                    "integratedSystems": [],
+                    "mounts": [
+                        {
+                            "mount_type": "Main",
+                            "lock": false,
+                            "slots": [
+                                {
+                                    "size": "Main",
+                                    "weapon": {
+                                        "id": "mw_sharanga_missiles",
+                                        "destroyed": false,
+                                        "cascading": false,
+                                        "loaded": true,
+                                        "mod": {
+                                            "id": "wm_stabilizer_mod",
+                                            "uses": 0,
+                                            "destroyed": false,
+                                            "cascading": false
+                                        },
+                                        "flavorName": "",
+                                        "flavorDescription": "“It was a duel. This is why they were made: to duel, and in that combat, to shake the pillars of the universe.” — “Notes for Young John”,  Ministrations of the Master Teacher",
+                                        "customDamageType": null,
+                                        "maxUseOverride": 0,
+                                        "uses": 0,
+                                        "selectedProfile": 0
+                                    }
+                                }
+                            ],
+                            "extra": [],
+                            "bonus_effects": [],
+                            "modifiable": true
+                        },
+                        {
+                            "mount_type": "Heavy",
+                            "lock": false,
+                            "slots": [
+                                {
+                                    "size": "Heavy",
+                                    "weapon": {
+                                        "id": "mw_gandiva_missiles",
+                                        "destroyed": false,
+                                        "cascading": false,
+                                        "loaded": true,
+                                        "mod": {
+                                            "id": "wm_stabilizer_mod",
+                                            "uses": 0,
+                                            "destroyed": false,
+                                            "cascading": false
+                                        },
+                                        "flavorName": "",
+                                        "flavorDescription": "Gandiva missiles are a reliable mainstay from Smith-Shimano’s BELLA CIAO line. Like the heavier Pinaka, the Gandiva is equipped with jet-assisted midflight repositioning systems, enhancing target navigation in rapidly changing battlefield environments. The Gandiva’s delivery platform is administered by a hivemind COMP/CON drone AI, giving it the capacity to learn from each right-of-launch experience.",
+                                        "customDamageType": null,
+                                        "maxUseOverride": 0,
+                                        "uses": 0,
+                                        "selectedProfile": 0
+                                    }
+                                }
+                            ],
+                            "extra": [],
+                            "bonus_effects": [],
+                            "modifiable": true
+                        }
+                    ],
+                    "integratedMounts": [],
+                    "improved_armament": {
+                        "mount_type": "Flex",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Flex",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [
+                            {
+                                "size": "Auxiliary",
+                                "weapon": null
+                            }
+                        ],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "superheavy_mounting": {
+                        "mount_type": "Superheavy",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Superheavy",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "integratedWeapon": {
+                        "mount_type": "Aux",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Auxiliary",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "extraMounts": [],
+                    "extraIntegratedMounts": []
+                }
+            ],
+            "active_loadout_index": 0
+        }
+    ],
+    "cc_ver": "",
+    "special_equipment": {
+        "PilotGear": [],
+        "Frames": [],
+        "MechWeapons": [],
+        "WeaponMods": [],
+        "MechSystems": [],
+        "SystemMods": []
+    },
+    "combat_history": {
+        "moves": 0,
+        "kills": 0,
+        "damage": 0,
+        "hp_damage": 0,
+        "structure_damage": 0,
+        "overshield": 0,
+        "heat_damage": 0,
+        "reactor_damage": 0,
+        "overcharge_uses": 0,
+        "core_uses": 0
+    },
+    "state": {
+        "active_mech_id": "",
+        "remote_mech_id": "",
+        "stage": "Narrative",
+        "turn": 1,
+        "actions": 2,
+        "braced": false,
+        "overcharged": false,
+        "prepare": false,
+        "bracedCooldown": false,
+        "redundant": false,
+        "stats": {
+            "moves": 0,
+            "kills": 0,
+            "damage": 0,
+            "hp_damage": 0,
+            "structure_damage": 0,
+            "overshield": 0,
+            "heat_damage": 0,
+            "reactor_damage": 0,
+            "overcharge_uses": 0,
+            "core_uses": 0
+        },
+        "deployed": []
+    },
+    "lastModified": "Thu Feb 20 2025 00:03:25 GMT-0500 (heure normale de l’Est nord-américain)",
+    "isDeleted": false,
+    "expireTime": "",
+    "deleteTime": "",
+    "lastUpdate_cloud": "",
+    "lastSync": "",
+    "skills": [
+        {
+            "id": "sk_push_boundaries",
+            "rank": 2
+        },
+        {
+            "id": "sk_pull_rank",
+            "rank": 2
+        },
+        {
+            "id": "sk_read_a_situation",
+            "rank": 2
+        },
+        {
+            "id": "sk_take_control",
+            "rank": 3
+        }
+    ],
+    "talents": [
+        {
+            "id": "t_bonded",
+            "rank": 3
+        },
+        {
+            "id": "t_tactician",
+            "rank": 3
+        },
+        {
+            "id": "t_brutal",
+            "rank": 1
+        },
+        {
+            "id": "t_rivalry",
+            "rank": 1
+        }
+    ],
+    "mechSkills": [
+        5,
+        0,
+        2,
+        0
+    ],
+    "counter_data": [],
+    "custom_counters": [],
+    "core_bonuses": [
+        "cb_neurolink_targeting"
+    ],
+    "licenses": [
+        {
+            "id": "mf_monarch",
+            "rank": 2
+        },
+        {
+            "id": "mf_deaths_head",
+            "rank": 3
+        }
+    ],
+    "reserves": [],
+    "orgs": [],
+    "bondId": "sotw-bond-knave",
+    "xp": 0,
+    "stress": 0,
+    "isBroken": false,
+    "burdens": [],
+    "bondPowers": [
+        {
+            "name": "Out Of My Way",
+            "frequency": "1/session",
+            "description": "When someone blocks your path or prevents you from getting what you want, describe how you confront them. You gain +1 ACCURACY and increased effect against them for the rest of the scene."
+        },
+        {
+            "name": "Ruthless",
+            "frequency": "1/session",
+            "description": "When you would take a consequence, you may instead choose a friendly NPC who is present in the scene. That NPC takes the consequence, and forever becomes your enemy."
+        },
+        {
+            "name": "The Ledger",
+            "description": "Any time, you may ask any character what they want from you right now (service, time, attention, apologies, aid, information, a favor). If you give it to them as described, you can write their name in your ledger. Once their name is in there, you can invoke the ledger any time. When you invoke someone’s name in the ledger, any roll you make against them with a result of 9 or lower is treated as a 10 for the rest of the session, then it loses its power over them."
+        }
+    ],
+    "powerSelections": 0,
+    "maxStress": 8,
+    "bondAnswers": [
+        "An uncompromising mentor who taught you tough lessons.",
+        "Your safety."
+    ],
+    "minorIdeal": "I paid the price for my ambition.",
+    "clocks": [],
+    "group": "",
+    "sort_index": -1,
+    "portrait": "",
+    "cloud_portrait": "https://d1nurxym97qk9o.cloudfront.net/public/us-east-1:ae8d5767-616e-4cc4-8f1d-0a4f65f8f5a0/pilot/baron_expanded.png",
+    "loadout": {
+        "id": "65ffb34e-130a-481d-8053-75717cc68794",
+        "name": "Primary",
+        "armor": [
+            null
+        ],
+        "weapons": [
+            null,
+            null
+        ],
+        "gear": [
+            null,
+            null,
+            null
+        ],
+        "extendedWeapons": [
+            null
+        ],
+        "extendedGear": [
+            null,
+            null
+        ]
+    },
+    "brews": [
+        {
+            "LcpId": "OMskwK4GxkhZ2GEBJnIoyukHgMs=",
+            "LcpName": "Lancer Enhanced Combat Alt Frames",
+            "LcpVersion": "1.1",
+            "Website": "https://interpoint-station.itch.io/lancer-enhanced-combat"
+        }
+    ]
+}
