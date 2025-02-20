@@ -1,0 +1,1 @@
+Valda was born on Sparr as part of clan Yngling, nomads who travel the icy wastes. She's been on her roadcarving for 30 years now, traveling to some of the furthest reaches of Union as part of a Far-Field team. (Finish the rest of this later. Incorporate some family backstory, and rumors about her travels. Including potentially a near death experience on some frozen wastes).

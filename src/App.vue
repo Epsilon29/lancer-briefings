@@ -41,7 +41,7 @@ export default {
         gate: "Manaraga",
         ring: "Ural-Line",
         headerTitle: "Union Administration",
-        headerSubtitle: "Disaster Relief Corps",
+        headerSubtitle: "Disaster Relief",
         subheaderTitle: "Strategic Response Team",
         subheaderSubtitle: "Los Alamos Squad",
       },
@@ -51,20 +51,20 @@ export default {
       pilots: [],
       reserves: [],
       init: {
-        "XRAY": {
-          "age": "24u",
+        "WARDEN": {
+          "age": "25u",
           "pob": "N/A",
         },
-        "CYGNUS": {
-          "age": "30u",
+        "SEER": {
+          "age": "N/A",
           "pob": "N/A"
         },
-		    "HIJACK": {
-          "age": "28u",
+		    "BJORN": {
+          "age": "52u",
           "pob": "N/A"
         },
-		    "ATARI": {
-          "age": "21u",
+		    "CORSAIR": {
+          "age": "35u",
           "pob": "N/A"
         }
       }

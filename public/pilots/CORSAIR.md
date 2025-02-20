@@ -1,0 +1,3 @@
+Cassius "Cass" Texiera was born on Umara, but left at a young age, finding it a little too clean and full. Instead he struck out to the Outer Rim, taking odd jobs of varying levels of legality in the more troubled parts of the Galaxy. Eventually joining the Union's Disaster Relief Corps A heart of gold, a silver tongue, and a god-given ability to put lead exactly where he wants it.
+
+Mid-thirties man, red hair, green eyes. Full beard, well combed. Average height.
