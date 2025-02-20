@@ -35,8 +35,8 @@ export default {
   data() {
     return {
       header: {
-        planet: "Cressidium",
-        year: "5016u",
+        planet: "Sparr",
+        year: "5021u",
         system: "Shastarain",
         gate: "N/A",
         ring: "Cascade-Line",
@@ -160,8 +160,8 @@ export default {
 
 <style>
 #app {
-  width: 2560px;
-  height: 1244px;
+  width: 2540px;
+  height: 1440px;
   overflow: hidden !important;
   border-right: 1px solid #ff0;
   border-bottom: 1px solid #ff0;
