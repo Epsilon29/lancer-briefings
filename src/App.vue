@@ -160,7 +160,7 @@ export default {
 
 <style>
 #app {
-  width: 80vw;
+  width: 85vw;
   height: 100vh;
   overflow: hidden !important;
   border-right: 1px solid #ff0;
