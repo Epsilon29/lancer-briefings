@@ -37,12 +37,12 @@ export default {
       header: {
         planet: "Sparr",
         year: "5021u",
-        system: "Shastarain",
-        gate: "N/A",
-        ring: "Cascade-Line",
-        headerTitle: "Union Navy",
-        headerSubtitle: "Diplomatic Core",
-        subheaderTitle: "Lancer Squadron",
+        system: "N/A",
+        gate: "Manaraga",
+        ring: "Ural-Line",
+        headerTitle: "Union Administration",
+        headerSubtitle: "Disaster Relief Corps",
+        subheaderTitle: "Strategic Response Team",
         subheaderSubtitle: "Los Alamos Squad",
       },
       clocks: [],
@@ -160,7 +160,7 @@ export default {
 
 <style>
 #app {
-  width: 90vw;
+  width: 80vw;
   height: 100vh;
   overflow: hidden !important;
   border-right: 1px solid #ff0;
