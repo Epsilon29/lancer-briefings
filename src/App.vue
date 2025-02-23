@@ -160,6 +160,9 @@ export default {
 
 <style>
 #app {
+  position: fixed;
+  top: 50px;
+  left: 50px;
   width: 85vw;
   height: 100vh;
   overflow: hidden !important;
